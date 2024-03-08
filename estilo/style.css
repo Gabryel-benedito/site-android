@@ -33,7 +33,7 @@ header > h1{
     font-family: var(--fontepadrao);
     font-size: 2em;
     text-align: center;
-    margin: auto auto 15px auto;
+    margin: auto auto 7px auto;
 }
 
 header > p{
@@ -45,6 +45,7 @@ header > p{
 
 nav{
     background-color: #30614B;
+    margin: 15px auto auto auto;
 }
 
 nav > a{
@@ -62,6 +63,7 @@ nav > a:hover{
     background-color: #2d815b;
     font-size: 25px;
     box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.427);
+    border-radius: 6px;
 }
 
 main{
